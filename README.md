@@ -46,5 +46,5 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau (planned)
 
 ## 👤 Author
 Vikas Gupta | BBA @ IGNOU | Data Analytics @ Simplilearn
-Skills: SQL, Python, Excel, Power BI, Tableau
-Seeking: Remote Data Analyst Intern
+- Skills: SQL, Python, Excel, Power BI, Tableau
+- Seeking: Remote Data Analyst Intern
