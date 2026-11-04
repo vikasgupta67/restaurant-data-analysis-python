@@ -38,12 +38,13 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau (planned)
 - `requirements.txt` - Libraries needed
 - `Marketing_project_writeup.pdf` - Detailed 8-page report
 
-## 🚀 How to Run
-```bash
-pip install -r requirements.txt
-python restaurant_analysis.py
 
-👤 Author
+## 🚀 How to Run
+- `bash`
+- `pip install -r requirements.txt`
+- `python restaurant_analysis.py`
+
+##👤 Author
 Vikas Gupta | BBA @ IGNOU | Data Analytics @ Simplilearn
 Skills: SQL, Python, Excel, Power BI, Tableau
 Seeking: Remote Data Analyst Intern
