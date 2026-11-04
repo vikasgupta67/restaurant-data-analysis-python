@@ -42,3 +42,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Tableau (planned)
 ```bash
 pip install -r requirements.txt
 python restaurant_analysis.py
+
+👤 Author
+Vikas Gupta | BBA @ IGNOU | Data Analytics @ Simplilearn
+Skills: SQL, Python, Excel, Power BI, Tableau
+Seeking: Remote Data Analyst Intern
