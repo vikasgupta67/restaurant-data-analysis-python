@@ -1,7 +1,7 @@
 # 🍽️ Restaurant Data Analysis | Python EDA & Marketing Insights
 
-[Python](https://img.shields.io/badge/Python-Pandas-blue)
-[Dataset](https://img.shields.io/badge/Data-9551%20Restaurants-green)
+![Python](https://img.shields.io/badge/Python-Pandas-blue)
+![Dataset](https://img.shields.io/badge/Data-9551%20Restaurants-green)
 
 ## 📌 Business Problem
 Build an intelligent B2C recommendation portal. Before building it, understand:
